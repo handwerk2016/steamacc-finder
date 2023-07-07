@@ -11,5 +11,5 @@ If you want get it, feel free to dm me: https://t.me/trustfactorbypass
 
 # License:
 
-This code uses GNU Affero General Public License v3.0
+This code uses GNU Affero General Public License v3.0 \n
 Learn more: https://github.com/handwerk2016/steamacc-finder/blob/main/LICENSE
